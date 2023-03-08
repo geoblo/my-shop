@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "title": "Arcsaber 11 Pro",
+    "content": "Even Balance Racket",
+    "price": 299000,
+    "imagePath": "https://www.yonexmall.com/shop/data/goods/1645767865278s0.png"
+  },
+  {
+    "id": "2",
+    "title": "Yonex Shirts",
+    "content": "White and Black logo",
+    "price": 135000,
+    "imagePath": "https://www.yonexmall.com/shop/data/goods/1659329583483s0.png"
+  },
+  {
+    "id": "3",
+    "title": "Aerus Z",
+    "content": "Even Balance Racket",
+    "price": 199000,
+    "imagePath": "https://www.yonexmall.com/shop/data/goods/1667190100104s0.png"
+  }
+]

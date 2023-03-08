@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "id": "4",
+      "title": "요넥스 백팩",
+      "content": "229BP005U",
+      "price": 99000,
+      "imagePath": "https://www.yonexmall.com/shop/data/goods/1667282273374s0.png"
+    },
+    {
+      "id": "5",
+      "title": "라켓보이즈 모자",
+      "content": "라켓보이즈 굿즈 (모자) Neon Green",
+      "price": 24000,
+      "imagePath": "https://www.yonexmall.com/shop/data/goods/1638434200729s0.png"
+    },
+    {
+      "id": "6",
+      "title": "트레이닝 매트",
+      "content": "AC517, TRAINING MAT (트레이닝 매트) MTB",
+      "price": 71000,
+      "imagePath": "https://www.yonexmall.com/shop/data/goods/1640582675794s0.png"
+    }
+  ],
+  "user": {
+    "name": "JH Kim",
+    "email": "geoblo@naver.com",
+    "role": "admin"
+  }
+}
